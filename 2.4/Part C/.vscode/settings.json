@@ -1,0 +1,4 @@
+{
+    "java.project.sourcePaths": ["model", "controller", "view"],
+    "java.configuration.checkProjectSettingsExclusions": false
+}
